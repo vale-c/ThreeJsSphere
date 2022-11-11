@@ -1,11 +1,13 @@
 # Three.js Starter
+
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
@@ -15,4 +17,9 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
 # ThreeJsSphere
+
+This is a project built with Three.js which represents a moving sphere with a special texture using a normal map.
+
+![Screenshot](../threejs-webpack-starter/static/assets/screenshot.png)
