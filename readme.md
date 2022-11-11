@@ -22,4 +22,4 @@ npm run build
 
 This is a project built with Three.js which represents a moving sphere with a special texture using a normal map.
 
-![Screenshot](../threejs-webpack-starter/static/assets/screenshot.png)
+![Screenshot](https://github.com/vale-c/ThreeJsSphere/blob/main/static/assets/screenshot.png)
